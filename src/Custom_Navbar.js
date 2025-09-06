@@ -27,7 +27,6 @@ const Navbar = () => {
 
         const searchItems = [
             { name: "Home", url: "/Home" },
-            { name: "Cart", url: "/Cart" },
             { name: "Contact", url: "/Contact" },
             { name: "Phone", url: "/Contact" },
             { name: "Address", url: "/Contact" },
