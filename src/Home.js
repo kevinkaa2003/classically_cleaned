@@ -43,6 +43,13 @@ const Home = () => {
         <br/>
         <br/>
         <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
         <div className='hometitlewrapper'>
             <div className='hometitle'>
                 <h1>Classically Cleaned</h1>
